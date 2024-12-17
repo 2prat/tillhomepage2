@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/dog-killed-by-by-driver-using-pump-fun",
+      "source": "/dog-killed-by-driver-using-pump-fun",
       "destination": "https://tillyarticle.vercel.app/"
     }
   ]
